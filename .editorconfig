@@ -1,0 +1,17 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 4
+indent_style = tab
+insert_final_newline = true
+max_line_length = 999999999
+tab_width = 4
+
+ij_continuation_indent_size = 4
+
+ij_c_block_comment_at_first_column = false
+ij_c_keep_first_column_comment = false
+ij_c_line_comment_add_space = true
+ij_c_line_comment_at_first_column = false
